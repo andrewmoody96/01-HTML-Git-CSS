@@ -1,0 +1,55 @@
+ * {
+    font-family: cursive;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+img {
+    border: solid brown 5px;
+    margin: 20px;
+}
+
+header, footer {
+    background-color: brown;
+    color: lightgray;
+}
+
+#button {
+    background-color: brown;
+    color: lightgray;
+}
+
+form {
+    position: relative;
+    left: 40px;
+
+}
+
+figcaption {
+    margin: auto;
+}
+
+.mainsection {
+    background-color: lightsalmon;
+}
+
+header {
+    text-align: center;
+}
+header a {
+    color: lightgray;
+    margin: 0 1em;
+}
+
+#form-contact {
+    padding-bottom: 20px;
+}
+
